@@ -19,7 +19,7 @@ It provides clear insights into **sales, profit, customer behavior, and regional
 - **Sales by State** – Discover high and low revenue regions  
 - **Sales by Customer** – Pinpoint valuable customers  
 
-🔹 Key Metrics
+🔹 **Key Metrics**
 
 💰 Total Sales: ₹438K
 
@@ -29,7 +29,7 @@ It provides clear insights into **sales, profit, customer behavior, and regional
 
 🏆 Total Profit: ₹37K
 
-🔹 Tools & Skills Used
+🔹 **Tools & Skills Used**
 
 Power BI Desktop
 
@@ -39,10 +39,10 @@ Data Cleaning & Transformation
 
 Interactive Visuals & KPIs
 
-🔹 About Me
+🔹** About Me**
 
 I’m passionate about data analysis and visualization, and I love turning raw data into actionable insights.
 👉 Connect with me on LinkedIn
 https://www.linkedin.com/in/tilak-malviya-6596512b8/
 
-⭐ Don’t forget to star this repo if you find it helpful!
+⭐ **Don’t forget to star this repo if you find it helpful!**
